@@ -1,4 +1,5 @@
 # classification
+![Screenshot 2021-12-18 125058](https://user-images.githubusercontent.com/93244403/146636904-cdd632e7-d672-4748-aa83-a83d14ff02bf.png)
 
 About weathar:
 This project is goal to apply historic climate facts like temperature, humidity, windspeed, visibility and the pressure, and are expecting weather became rained or not. the goal is extracted from climate Since the reason is to are expecting the rain only.
