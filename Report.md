@@ -19,7 +19,7 @@ Included a date for which you would like to see weather history such as temperat
 
   * First of all We concluded through the EDA what is the best location to work with soler energy.
           
-![99999](https://user-images.githubusercontent.com/93244403/146690370-b47430e9-f720-4b16-8c2a-9a5ad50cd137.png)
+![download (2)](https://user-images.githubusercontent.com/93244403/146691288-0835d1b0-7a31-4f66-b53d-fffb351bb975.png)
 
 
 #### After comparing the cities and their temperatures, and whether the cities were sunny or not, we found that the top three cities were as follows:
