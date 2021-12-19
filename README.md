@@ -1,14 +1,16 @@
-# classification
+# classification project
 ![Screenshot 2021-12-18 125058](https://user-images.githubusercontent.com/93244403/146636904-cdd632e7-d672-4748-aa83-a83d14ff02bf.png)
 
-About weathar:
-This project is goal to apply historic climate facts like temperature, humidity, windspeed, visibility and the pressure, and are expecting weather became rained or not. the goal is extracted from climate Since the reason is to are expecting the rain only.
+About Company:
+The Sun is an extremely powerful energy source, and sunlight is by far the largest source of energy received by Earth, but its intensity at Earth’s surface is actually quite low. This is essentially because of the enormous radial spreading of radiation from the distant Sun.With energy costs and consumption rising dramatically, the need for renewable energy has become urgent. In line with the Kingdom’s Vision 2030 plan to diversify energy sources.
+This project goal to predict about weather in saudi arabia especially  of Sunny or Not sunny, to use for solar energy Where is the best location and the best days to work.
+
 
 ### Motivation
 It would be interesting to see any machine learning techniques or continued data visualizations applied on this data set.
 
 ## Aim and Objectives:
-Any city has a higher rainfall ratio ? 
+Any city have best location and the best days to work ?
 
 ## Data Description
 
@@ -29,6 +31,10 @@ Any city has a higher rainfall ratio ?
 | Barometer  | used to measure air pressure in a certain environment |
 | visibility  |  the quality or state of being visible, the degree of clearness |
 
+
+#### Consist of 15 columns and 249023 rows
+
+
 ## Libraries:
 
 * Pandas
@@ -38,14 +44,11 @@ Any city has a higher rainfall ratio ?
 * Seaborn
 * Counter from collections
 * matplotlib
-* matplotlib.pyplot
-* matplotlib.style
-* matplotlib.colors
-* warnings
+* plotly
+* 
 
 ## Tools:
 
 * python
 * jupyter notebook
 * PowerPoint
-*  Excel
