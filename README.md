@@ -41,13 +41,12 @@ Any city have best location and the best days to work ?
 * pandas 
 * numpy 
 * seaborn 
+* pandas profiling 
 * plotly.express 
 * matplotlib.pyplot 
-* pandas_profiling 
 * sklearn.model_selection 
 * sklearn.linear_model 
 * sklearn.preprocessing 
-* sklearn.metrics 
 * sklearn.metrics 
 * sklearn.ensemble 
 * sklearn import datasets
