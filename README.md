@@ -7,9 +7,6 @@ The Sun is an extremely powerful energy source, and sunlight is by far the large
 This project goal to predict about weather in saudi arabia especially  of Sunny or Not sunny, to use for solar energy Where is the best location and the best days to work.
 
 
-## Motivation
-It would be interesting to see any machine learning techniques or continued data visualizations applied on this data set.
-
 ## Aim and Objectives:
 Any city have best location and the best days to work ?
 
