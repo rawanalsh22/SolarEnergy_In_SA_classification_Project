@@ -1,7 +1,8 @@
 # classification project
 ![Screenshot 2021-12-18 125058](https://user-images.githubusercontent.com/93244403/146636904-cdd632e7-d672-4748-aa83-a83d14ff02bf.png)
 
-About Company:
+### About Company:
+
 The Sun is an extremely powerful energy source, and sunlight is by far the largest source of energy received by Earth, but its intensity at Earth’s surface is actually quite low. This is essentially because of the enormous radial spreading of radiation from the distant Sun.With energy costs and consumption rising dramatically, the need for renewable energy has become urgent. In line with the Kingdom’s Vision 2030 plan to diversify energy sources.
 This project goal to predict about weather in saudi arabia especially  of Sunny or Not sunny, to use for solar energy Where is the best location and the best days to work.
 
@@ -37,15 +38,31 @@ Any city have best location and the best days to work ?
 
 ## Libraries:
 
-* Pandas
-* NumPy
-* missingno  
-* Matplotlib
-* Seaborn
-* Counter from collections
-* matplotlib
-* plotly
-* 
+* pandas 
+* numpy 
+* seaborn 
+* plotly.express 
+* matplotlib.pyplot 
+* pandas_profiling 
+* sklearn.model_selection 
+* sklearn.linear_model 
+* sklearn.preprocessing 
+* sklearn.metrics 
+* sklearn.metrics 
+* sklearn.ensemble 
+* sklearn import datasets
+* sklearn.neighbors 
+* sklearn.datasets 
+* sklearn.tree 
+* sklearn.ensemble 
+* ipywidgets
+* imblearn.over_sampling 
+* imblearn.under_sampling 
+* mlxtend.classifier 
+* collections 
+* wordcloud 
+* xgboost
+* warnings
 
 ## Tools:
 
