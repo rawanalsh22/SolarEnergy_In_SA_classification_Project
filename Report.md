@@ -12,8 +12,8 @@ In line with the Kingdom’s Vision 2030 plan to diversify energy sources.
 
 ### 3.Data
 
-> Database source is [Kaggle](https://www.kaggle.com/esraamadi/saudi-arabia-weather-history) it is a Medical Cost Personal Datasets, depends on: designation, form of clinic, town of residence, sex, age and if this person smoker or not, and do have children or not.
-dedicated to the price of treatment of various patients. the price of treatment depends on several factors: designation, form of clinic, town of residence, age then on.
+> Database source is [Kaggle](https://www.kaggle.com/esraamadi/saudi-arabia-weather-history)  hrough this dataset, we provide hourly historical weather data for all Saudi Arabia cities from 2017 to 2019 . 
+Included a date for which you would like to see weather history such as temperature, wind, humidity, barometer, and visibility.
 
 ### 4. What did we conclude?
 
