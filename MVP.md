@@ -16,6 +16,8 @@ A data we was using it's  imbalance and we changed to balance by OverSample
 <br>
 <br>
 This is Data befor OverSample
+
+
 ![WhatsApp Image 2021-12-19 at 9 33 19 AM](https://user-images.githubusercontent.com/93244403/146690874-ba4aae9d-e5e8-4995-ab70-0932983c396f.jpeg)
 
 
@@ -24,4 +26,6 @@ This is Data befor OverSample
 <br>
 <br>
 This is Data after OverSample
+
+
 ![over sample](https://user-images.githubusercontent.com/93244403/146690895-d1bfe317-dada-441e-929d-1ec0b347cecb.jpeg)
